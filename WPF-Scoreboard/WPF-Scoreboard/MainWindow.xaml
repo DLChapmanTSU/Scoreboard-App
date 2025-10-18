@@ -7,6 +7,37 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90"/>
+            <RowDefinition />
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        
+        <!-- Title Bar -->
+        <Rectangle Grid.Row="0" Fill="Yellow" />
+        <TextBlock Name="tbTitle" Text="Scoreboard" FontSize="75" VerticalAlignment="Top" HorizontalAlignment="Center" Grid.Row="0"/>
 
+        <!-- Content -->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="100*"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Name="tbPlayerOneTitle" Text="Player 1" FontSize="32" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="0"/>
+            <TextBlock Name="tbPlayerTwoTitle" Text="Player 2" FontSize="32" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="2"/>
+            <Button Name="btCommit" Width="100" Height="50" VerticalAlignment="Center" HorizontalAlignment="Center" Content="Commit" FontSize="20" Grid.Row="1" Grid.Column="1"
+        Click="btCommit_Click"/>
+        </Grid>
+        
+        
+        <!-- Bottom Bar -->
+        <Rectangle Grid.Row="2" Fill="Blue"/>
     </Grid>
 </Window>

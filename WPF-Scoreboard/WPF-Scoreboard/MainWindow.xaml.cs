@@ -11,5 +11,10 @@ namespace WPF_Scoreboard
         {
             InitializeComponent();
         }
+
+        private void btCommit_Click(object sender, RoutedEventArgs e)
+        {
+            //Write score info to text files
+        }
     }
 }
