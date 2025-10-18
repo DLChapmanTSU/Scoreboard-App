@@ -18,36 +18,36 @@
 mono_crash.*
 
 # Build results
-WPF-Scoreboard/WPF-Scoreboard/[Dd]ebug/
-WPF-Scoreboard/WPF-Scoreboard/[Dd]ebugPublic/
-WPF-Scoreboard/WPF-Scoreboard/[Rr]elease/
-WPF-Scoreboard/WPF-Scoreboard/[Rr]eleases/
-WPF-Scoreboard/WPF-Scoreboard/bin/[Dd]ebug/
-WPF-Scoreboard/WPF-Scoreboard/obj/[Dd]ebug/
+/WPF-Scoreboard/WPF-Scoreboard/[Dd]ebug/
+/WPF-Scoreboard/WPF-Scoreboard/[Dd]ebugPublic/
+/WPF-Scoreboard/WPF-Scoreboard/[Rr]elease/
+/WPF-Scoreboard/WPF-Scoreboard/[Rr]eleases/
+/WPF-Scoreboard/WPF-Scoreboard/bin/[Dd]ebug/
+/WPF-Scoreboard/WPF-Scoreboard/obj/[Dd]ebug/
 
-WPF-Scoreboard/WPF-Scoreboard/[Dd]ebug/x64/
-WPF-Scoreboard/WPF-Scoreboard/[Dd]ebugPublic/x64/
-WPF-Scoreboard/WPF-Scoreboard/[Rr]elease/x64/
-WPF-Scoreboard/WPF-Scoreboard/[Rr]eleases/x64/
-WPF-Scoreboard/WPF-Scoreboard/bin/x64/
-WPF-Scoreboard/WPF-Scoreboard/obj/x64/
+/WPF-Scoreboard/WPF-Scoreboard/[Dd]ebug/x64/
+/WPF-Scoreboard/WPF-Scoreboard/[Dd]ebugPublic/x64/
+/WPF-Scoreboard/WPF-Scoreboard/[Rr]elease/x64/
+/WPF-Scoreboard/WPF-Scoreboard/[Rr]eleases/x64/
+/WPF-Scoreboard/WPF-Scoreboard/bin/x64/
+/WPF-Scoreboard/WPF-Scoreboard/obj/x64/
 
-WPF-Scoreboard/WPF-Scoreboard/[Dd]ebug/x86/
-WPF-Scoreboard/WPF-Scoreboard/[Dd]ebugPublic/x86/
-WPF-Scoreboard/WPF-Scoreboard/[Rr]elease/x86/
-WPF-Scoreboard/WPF-Scoreboard/[Rr]eleases/x86/
-WPF-Scoreboard/WPF-Scoreboard/bin/x86/
-WPF-Scoreboard/WPF-Scoreboard/obj/x86/
+/WPF-Scoreboard/WPF-Scoreboard/[Dd]ebug/x86/
+/WPF-Scoreboard/WPF-Scoreboard/[Dd]ebugPublic/x86/
+/WPF-Scoreboard/WPF-Scoreboard/[Rr]elease/x86/
+/WPF-Scoreboard/WPF-Scoreboard/[Rr]eleases/x86/
+/WPF-Scoreboard/WPF-Scoreboard/bin/x86/
+/WPF-Scoreboard/WPF-Scoreboard/obj/x86/
 
-WPF-Scoreboard/WPF-Scoreboard/[Ww][Ii][Nn]32/
-WPF-Scoreboard/WPF-Scoreboard/[Aa][Rr][Mm]/
-WPF-Scoreboard/WPF-Scoreboard/[Aa][Rr][Mm]64/
-WPF-Scoreboard/WPF-Scoreboard/[Aa][Rr][Mm]64[Ee][Cc]/
-WPF-Scoreboard/WPF-Scoreboard/bld/
-WPF-Scoreboard/WPF-Scoreboard/[Oo]bj/
-WPF-Scoreboard/WPF-Scoreboard/[Oo]ut/
-WPF-Scoreboard/WPF-Scoreboard/[Ll]og/
-WPF-Scoreboard/WPF-Scoreboard/[Ll]ogs/
+/WPF-Scoreboard/WPF-Scoreboard/[Ww][Ii][Nn]32/
+/WPF-Scoreboard/WPF-Scoreboard/[Aa][Rr][Mm]/
+/WPF-Scoreboard/WPF-Scoreboard/[Aa][Rr][Mm]64/
+/WPF-Scoreboard/WPF-Scoreboard/[Aa][Rr][Mm]64[Ee][Cc]/
+/WPF-Scoreboard/WPF-Scoreboard/bld/
+/WPF-Scoreboard/WPF-Scoreboard/[Oo]bj/
+/WPF-Scoreboard/WPF-Scoreboard/[Oo]ut/
+/WPF-Scoreboard/WPF-Scoreboard/[Ll]og/
+/WPF-Scoreboard/WPF-Scoreboard/[Ll]ogs/
 
 # Build results on 'Bin' directories
 **/[Bb]in/*
