@@ -5,12 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_Scoreboard"
         mc:Ignorable="d"
+        Loaded="Window_Loaded"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="90"/>
             <RowDefinition />
-            <RowDefinition Height="50"/>
+            <RowDefinition Height="10"/>
         </Grid.RowDefinitions>
         
         <!-- Title Bar -->
@@ -28,12 +29,23 @@
             <Grid.RowDefinitions>
                 <RowDefinition Height="100"/>
                 <RowDefinition Height="100*"/>
+                <RowDefinition Height="100*"/>
             </Grid.RowDefinitions>
 
             <TextBlock Name="tbPlayerOneTitle" Text="Player 1" FontSize="32" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="0"/>
             <TextBlock Name="tbPlayerTwoTitle" Text="Player 2" FontSize="32" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="2"/>
             <Button Name="btCommit" Width="100" Height="50" VerticalAlignment="Center" HorizontalAlignment="Center" Content="Commit" FontSize="20" Grid.Row="1" Grid.Column="1"
         Click="btCommit_Click"/>
+            <TextBox Name="tbxPlayerOneName" Width="200" Height="50" TextAlignment="Center" FontSize="32" BorderBrush="Black" AcceptsReturn="False" AcceptsTab="False" AllowDrop="False" AutoWordSelection="False" Grid.Row="1" Grid.Column="0"
+                     TextChanged="tbxPlayerOneName_TextChanged"/>
+            <TextBox Name="tbxPlayerTwoName" Width="200" Height="50" TextAlignment="Center" FontSize="32" BorderBrush="Black" AcceptsReturn="False" AcceptsTab="False" AllowDrop="False" AutoWordSelection="False" Grid.Row="1" Grid.Column="2"
+                     TextChanged="tbxPlayerTwoName_TextChanged"/>
+            <TextBox Name="tbxPlayerOneScore" Width="100" Height="100" TextAlignment="Center" FontSize="64" BorderBrush="Black" AcceptsReturn="False" AcceptsTab="False" AllowDrop="False" AutoWordSelection="False" Grid.Row="2" Grid.Column="0"
+                     TextChanged="tbxPlayerOneScore_TextChanged"/>
+            <TextBox Name="tbxPlayerTwoScore" Width="100" Height="100" TextAlignment="Center" FontSize="64" BorderBrush="Black" AcceptsReturn="False" AcceptsTab="False" AllowDrop="False" AutoWordSelection="False" Grid.Row="2" Grid.Column="2"
+                     TextChanged="tbxPlayerTwoScore_TextChanged"/>
+
+            <Image Name="imTestFlag" Grid.Row="2" Grid.Column="1"/>
         </Grid>
         
         
