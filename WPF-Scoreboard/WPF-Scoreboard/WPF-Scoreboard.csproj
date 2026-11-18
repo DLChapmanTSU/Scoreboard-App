@@ -181,6 +181,7 @@
     <None Remove="Images\Flags\ni.png" />
     <None Remove="Images\Flags\nl.png" />
     <None Remove="Images\Flags\no.png" />
+    <None Remove="Images\Flags\None.png" />
     <None Remove="Images\Flags\np.png" />
     <None Remove="Images\Flags\nr.png" />
     <None Remove="Images\Flags\nu.png" />
@@ -267,260 +268,771 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Images\Flags\ad.png" />
-    <Resource Include="Images\Flags\ae.png" />
-    <Resource Include="Images\Flags\af.png" />
-    <Resource Include="Images\Flags\ag.png" />
-    <Resource Include="Images\Flags\ai.png" />
-    <Resource Include="Images\Flags\al.png" />
-    <Resource Include="Images\Flags\am.png" />
-    <Resource Include="Images\Flags\ao.png" />
-    <Resource Include="Images\Flags\aq.png" />
-    <Resource Include="Images\Flags\ar.png" />
-    <Resource Include="Images\Flags\as.png" />
-    <Resource Include="Images\Flags\at.png" />
-    <Resource Include="Images\Flags\au.png" />
-    <Resource Include="Images\Flags\aw.png" />
-    <Resource Include="Images\Flags\ax.png" />
-    <Resource Include="Images\Flags\az.png" />
-    <Resource Include="Images\Flags\ba.png" />
-    <Resource Include="Images\Flags\bb.png" />
-    <Resource Include="Images\Flags\bd.png" />
-    <Resource Include="Images\Flags\be.png" />
-    <Resource Include="Images\Flags\bf.png" />
-    <Resource Include="Images\Flags\bg.png" />
-    <Resource Include="Images\Flags\bh.png" />
-    <Resource Include="Images\Flags\bi.png" />
-    <Resource Include="Images\Flags\bj.png" />
-    <Resource Include="Images\Flags\bl.png" />
-    <Resource Include="Images\Flags\bm.png" />
-    <Resource Include="Images\Flags\bn.png" />
-    <Resource Include="Images\Flags\bo.png" />
-    <Resource Include="Images\Flags\bq.png" />
-    <Resource Include="Images\Flags\br.png" />
-    <Resource Include="Images\Flags\bs.png" />
-    <Resource Include="Images\Flags\bt.png" />
-    <Resource Include="Images\Flags\bv.png" />
-    <Resource Include="Images\Flags\bw.png" />
-    <Resource Include="Images\Flags\by.png" />
-    <Resource Include="Images\Flags\bz.png" />
-    <Resource Include="Images\Flags\ca.png" />
-    <Resource Include="Images\Flags\cc.png" />
-    <Resource Include="Images\Flags\cd.png" />
-    <Resource Include="Images\Flags\cf.png" />
-    <Resource Include="Images\Flags\cg.png" />
-    <Resource Include="Images\Flags\ch.png" />
-    <Resource Include="Images\Flags\ci.png" />
-    <Resource Include="Images\Flags\ck.png" />
-    <Resource Include="Images\Flags\cl.png" />
-    <Resource Include="Images\Flags\cm.png" />
-    <Resource Include="Images\Flags\cn.png" />
-    <Resource Include="Images\Flags\co.png" />
-    <Resource Include="Images\Flags\cr.png" />
-    <Resource Include="Images\Flags\cu.png" />
-    <Resource Include="Images\Flags\cv.png" />
-    <Resource Include="Images\Flags\cw.png" />
-    <Resource Include="Images\Flags\cx.png" />
-    <Resource Include="Images\Flags\cy.png" />
-    <Resource Include="Images\Flags\cz.png" />
-    <Resource Include="Images\Flags\de.png" />
-    <Resource Include="Images\Flags\dj.png" />
-    <Resource Include="Images\Flags\dk.png" />
-    <Resource Include="Images\Flags\dm.png" />
-    <Resource Include="Images\Flags\do.png" />
-    <Resource Include="Images\Flags\dz.png" />
-    <Resource Include="Images\Flags\ec.png" />
-    <Resource Include="Images\Flags\ee.png" />
-    <Resource Include="Images\Flags\eg.png" />
-    <Resource Include="Images\Flags\eh.png" />
-    <Resource Include="Images\Flags\er.png" />
-    <Resource Include="Images\Flags\es.png" />
-    <Resource Include="Images\Flags\et.png" />
-    <Resource Include="Images\Flags\fi.png" />
-    <Resource Include="Images\Flags\fj.png" />
-    <Resource Include="Images\Flags\fk.png" />
-    <Resource Include="Images\Flags\fm.png" />
-    <Resource Include="Images\Flags\fo.png" />
-    <Resource Include="Images\Flags\fr.png" />
-    <Resource Include="Images\Flags\ga.png" />
-    <Resource Include="Images\Flags\gb-eng.png" />
-    <Resource Include="Images\Flags\gb-nir.png" />
-    <Resource Include="Images\Flags\gb-sct.png" />
-    <Resource Include="Images\Flags\gb-wls.png" />
-    <Resource Include="Images\Flags\gb.png" />
-    <Resource Include="Images\Flags\gd.png" />
-    <Resource Include="Images\Flags\ge.png" />
-    <Resource Include="Images\Flags\gf.png" />
-    <Resource Include="Images\Flags\gg.png" />
-    <Resource Include="Images\Flags\gh.png" />
-    <Resource Include="Images\Flags\gi.png" />
-    <Resource Include="Images\Flags\gl.png" />
-    <Resource Include="Images\Flags\gm.png" />
-    <Resource Include="Images\Flags\gn.png" />
-    <Resource Include="Images\Flags\gp.png" />
-    <Resource Include="Images\Flags\gq.png" />
-    <Resource Include="Images\Flags\gr.png" />
-    <Resource Include="Images\Flags\gs.png" />
-    <Resource Include="Images\Flags\gt.png" />
-    <Resource Include="Images\Flags\gu.png" />
-    <Resource Include="Images\Flags\gw.png" />
-    <Resource Include="Images\Flags\gy.png" />
-    <Resource Include="Images\Flags\hk.png" />
-    <Resource Include="Images\Flags\hm.png" />
-    <Resource Include="Images\Flags\hn.png" />
-    <Resource Include="Images\Flags\hr.png" />
-    <Resource Include="Images\Flags\ht.png" />
-    <Resource Include="Images\Flags\hu.png" />
-    <Resource Include="Images\Flags\id.png" />
-    <Resource Include="Images\Flags\ie.png" />
-    <Resource Include="Images\Flags\il.png" />
-    <Resource Include="Images\Flags\im.png" />
-    <Resource Include="Images\Flags\in.png" />
-    <Resource Include="Images\Flags\io.png" />
-    <Resource Include="Images\Flags\iq.png" />
-    <Resource Include="Images\Flags\ir.png" />
-    <Resource Include="Images\Flags\is.png" />
-    <Resource Include="Images\Flags\it.png" />
-    <Resource Include="Images\Flags\je.png" />
-    <Resource Include="Images\Flags\jm.png" />
-    <Resource Include="Images\Flags\jo.png" />
-    <Resource Include="Images\Flags\jp.png" />
-    <Resource Include="Images\Flags\ke.png" />
-    <Resource Include="Images\Flags\kg.png" />
-    <Resource Include="Images\Flags\kh.png" />
-    <Resource Include="Images\Flags\ki.png" />
-    <Resource Include="Images\Flags\km.png" />
-    <Resource Include="Images\Flags\kn.png" />
-    <Resource Include="Images\Flags\kp.png" />
-    <Resource Include="Images\Flags\kr.png" />
-    <Resource Include="Images\Flags\kw.png" />
-    <Resource Include="Images\Flags\ky.png" />
-    <Resource Include="Images\Flags\kz.png" />
-    <Resource Include="Images\Flags\la.png" />
-    <Resource Include="Images\Flags\lb.png" />
-    <Resource Include="Images\Flags\lc.png" />
-    <Resource Include="Images\Flags\li.png" />
-    <Resource Include="Images\Flags\lk.png" />
-    <Resource Include="Images\Flags\lr.png" />
-    <Resource Include="Images\Flags\ls.png" />
-    <Resource Include="Images\Flags\lt.png" />
-    <Resource Include="Images\Flags\lu.png" />
-    <Resource Include="Images\Flags\lv.png" />
-    <Resource Include="Images\Flags\ly.png" />
-    <Resource Include="Images\Flags\ma.png" />
-    <Resource Include="Images\Flags\mc.png" />
-    <Resource Include="Images\Flags\md.png" />
-    <Resource Include="Images\Flags\me.png" />
-    <Resource Include="Images\Flags\mf.png" />
-    <Resource Include="Images\Flags\mg.png" />
-    <Resource Include="Images\Flags\mh.png" />
-    <Resource Include="Images\Flags\mk.png" />
-    <Resource Include="Images\Flags\ml.png" />
-    <Resource Include="Images\Flags\mm.png" />
-    <Resource Include="Images\Flags\mn.png" />
-    <Resource Include="Images\Flags\mo.png" />
-    <Resource Include="Images\Flags\mp.png" />
-    <Resource Include="Images\Flags\mq.png" />
-    <Resource Include="Images\Flags\mr.png" />
-    <Resource Include="Images\Flags\ms.png" />
-    <Resource Include="Images\Flags\mt.png" />
-    <Resource Include="Images\Flags\mu.png" />
-    <Resource Include="Images\Flags\mv.png" />
-    <Resource Include="Images\Flags\mw.png" />
-    <Resource Include="Images\Flags\mx.png" />
-    <Resource Include="Images\Flags\my.png" />
-    <Resource Include="Images\Flags\mz.png" />
-    <Resource Include="Images\Flags\na.png" />
-    <Resource Include="Images\Flags\nc.png" />
-    <Resource Include="Images\Flags\ne.png" />
-    <Resource Include="Images\Flags\nf.png" />
-    <Resource Include="Images\Flags\ng.png" />
-    <Resource Include="Images\Flags\ni.png" />
-    <Resource Include="Images\Flags\nl.png" />
-    <Resource Include="Images\Flags\no.png" />
-    <Resource Include="Images\Flags\np.png" />
-    <Resource Include="Images\Flags\nr.png" />
-    <Resource Include="Images\Flags\nu.png" />
-    <Resource Include="Images\Flags\nz.png" />
-    <Resource Include="Images\Flags\om.png" />
-    <Resource Include="Images\Flags\pa.png" />
-    <Resource Include="Images\Flags\pe.png" />
-    <Resource Include="Images\Flags\pf.png" />
-    <Resource Include="Images\Flags\pg.png" />
-    <Resource Include="Images\Flags\ph.png" />
-    <Resource Include="Images\Flags\pk.png" />
-    <Resource Include="Images\Flags\pl.png" />
-    <Resource Include="Images\Flags\pm.png" />
-    <Resource Include="Images\Flags\pn.png" />
-    <Resource Include="Images\Flags\pr.png" />
-    <Resource Include="Images\Flags\ps.png" />
-    <Resource Include="Images\Flags\pt.png" />
-    <Resource Include="Images\Flags\pw.png" />
-    <Resource Include="Images\Flags\py.png" />
-    <Resource Include="Images\Flags\qa.png" />
-    <Resource Include="Images\Flags\re.png" />
-    <Resource Include="Images\Flags\ro.png" />
-    <Resource Include="Images\Flags\rs.png" />
-    <Resource Include="Images\Flags\ru.png" />
-    <Resource Include="Images\Flags\rw.png" />
-    <Resource Include="Images\Flags\sa.png" />
-    <Resource Include="Images\Flags\sb.png" />
-    <Resource Include="Images\Flags\sc.png" />
-    <Resource Include="Images\Flags\sd.png" />
-    <Resource Include="Images\Flags\se.png" />
-    <Resource Include="Images\Flags\sg.png" />
-    <Resource Include="Images\Flags\sh.png" />
-    <Resource Include="Images\Flags\si.png" />
-    <Resource Include="Images\Flags\sj.png" />
-    <Resource Include="Images\Flags\sk.png" />
-    <Resource Include="Images\Flags\sl.png" />
-    <Resource Include="Images\Flags\sm.png" />
-    <Resource Include="Images\Flags\sn.png" />
-    <Resource Include="Images\Flags\so.png" />
-    <Resource Include="Images\Flags\sr.png" />
-    <Resource Include="Images\Flags\ss.png" />
-    <Resource Include="Images\Flags\st.png" />
-    <Resource Include="Images\Flags\sv.png" />
-    <Resource Include="Images\Flags\sx.png" />
-    <Resource Include="Images\Flags\sy.png" />
-    <Resource Include="Images\Flags\sz.png" />
-    <Resource Include="Images\Flags\tc.png" />
-    <Resource Include="Images\Flags\td.png" />
-    <Resource Include="Images\Flags\tf.png" />
-    <Resource Include="Images\Flags\tg.png" />
-    <Resource Include="Images\Flags\th.png" />
-    <Resource Include="Images\Flags\tj.png" />
-    <Resource Include="Images\Flags\tk.png" />
-    <Resource Include="Images\Flags\tl.png" />
-    <Resource Include="Images\Flags\tm.png" />
-    <Resource Include="Images\Flags\tn.png" />
-    <Resource Include="Images\Flags\to.png" />
-    <Resource Include="Images\Flags\tr.png" />
-    <Resource Include="Images\Flags\tt.png" />
-    <Resource Include="Images\Flags\tv.png" />
-    <Resource Include="Images\Flags\tw.png" />
-    <Resource Include="Images\Flags\tz.png" />
-    <Resource Include="Images\Flags\ua.png" />
-    <Resource Include="Images\Flags\ug.png" />
-    <Resource Include="Images\Flags\um.png" />
-    <Resource Include="Images\Flags\us.png" />
-    <Resource Include="Images\Flags\uy.png" />
-    <Resource Include="Images\Flags\uz.png" />
-    <Resource Include="Images\Flags\va.png" />
-    <Resource Include="Images\Flags\vc.png" />
-    <Resource Include="Images\Flags\ve.png" />
-    <Resource Include="Images\Flags\vg.png" />
-    <Resource Include="Images\Flags\vi.png" />
-    <Resource Include="Images\Flags\vn.png" />
-    <Resource Include="Images\Flags\vu.png" />
-    <Resource Include="Images\Flags\wf.png" />
-    <Resource Include="Images\Flags\ws.png" />
-    <Resource Include="Images\Flags\xk.png" />
-    <Resource Include="Images\Flags\ye.png" />
-    <Resource Include="Images\Flags\yt.png" />
-    <Resource Include="Images\Flags\za.png" />
-    <Resource Include="Images\Flags\zm.png" />
-    <Resource Include="Images\Flags\zw.png" />
+    <Content Include="Images\Flags\ad.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ae.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\af.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ag.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ai.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\al.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\am.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ao.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\aq.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\as.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\at.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\au.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\aw.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ax.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\az.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ba.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\bb.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\bd.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\be.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\bf.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\bg.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\bh.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\bi.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\bj.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\bl.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\bm.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\bn.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\bo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\bq.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\br.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\bs.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\bt.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\bv.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\bw.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\by.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\bz.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ca.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\cc.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\cd.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\cf.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\cg.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ch.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ci.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ck.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\cl.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\cm.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\cn.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\co.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\cr.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\cu.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\cv.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\cw.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\cx.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\cy.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\cz.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\de.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\dj.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\dk.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\dm.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\do.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\dz.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ec.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ee.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\eg.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\eh.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\er.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\es.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\et.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\fi.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\fj.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\fk.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\fm.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\fo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\fr.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ga.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gb-eng.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gb-nir.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gb-sct.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gb-wls.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gb.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gd.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ge.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gf.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gg.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gh.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gi.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gl.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gm.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gn.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gp.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gq.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gr.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gs.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gt.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gu.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gw.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\gy.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\hk.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\hm.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\hn.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\hr.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ht.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\hu.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\id.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ie.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\il.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\im.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\in.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\io.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\iq.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ir.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\is.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\it.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\je.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\jm.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\jo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\jp.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ke.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\kg.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\kh.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ki.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\km.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\kn.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\kp.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\kr.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\kw.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ky.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\kz.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\la.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\lb.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\lc.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\li.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\lk.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\lr.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ls.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\lt.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\lu.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\lv.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ly.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ma.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\mc.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\md.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\me.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\mf.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\mg.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\mh.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\mk.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ml.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\mm.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\mn.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\mo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\mp.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\mq.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\mr.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ms.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\mt.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\mu.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\mv.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\mw.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\mx.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\my.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\mz.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\na.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\nc.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ne.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\nf.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ng.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ni.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\nl.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\no.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\None.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\np.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\nr.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\nu.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\nz.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\om.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\pa.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\pe.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\pf.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\pg.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ph.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\pk.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\pl.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\pm.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\pn.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\pr.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ps.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\pt.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\pw.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\py.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\qa.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\re.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ro.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\rs.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ru.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\rw.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\sa.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\sb.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\sc.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\sd.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\se.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\sg.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\sh.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\si.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\sj.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\sk.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\sl.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\sm.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\sn.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\so.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\sr.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ss.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\st.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\sv.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\sx.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\sy.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\sz.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\tc.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\td.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\tf.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\tg.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\th.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\tj.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\tk.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\tl.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\tm.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\tn.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\to.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\tr.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\tt.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\tv.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\tw.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\tz.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ua.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ug.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\um.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\us.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\uy.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\uz.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\va.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\vc.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ve.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\vg.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\vi.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\vn.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\vu.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\wf.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ws.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\xk.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\ye.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\yt.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\za.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\zm.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Flags\zw.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>
